@@ -1,0 +1,22 @@
+.new-item, select {
+  width: 50%;
+  display: inline-block;
+  border: 1px solid rgb(34, 7, 7);
+  border-radius: 5px;
+  box-sizing: border-box;
+  padding: 12px 20px;
+  margin: 8px;
+  margin-right: 5px;
+  
+}
+
+.add-btn {
+  background-color: #161650;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  padding: 10px 25px;
+  
+}

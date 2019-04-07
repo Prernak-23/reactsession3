@@ -1,0 +1,22 @@
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+  color: #0a133a;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
+  background-color: rgba(173, 215, 229, 0.5);
+}
+
+tr:last-of-type {
+  border-bottom: 1px solid black;
+}
+
+th {
+  background-color: #161650;
+  color: white;
+}

@@ -1,0 +1,13 @@
+.total {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    padding: 5px 2px;
+    background-color: #161650;
+    color: white;
+    margin-top: 40px;
+    border-radius: 10px;
+  }
+  
